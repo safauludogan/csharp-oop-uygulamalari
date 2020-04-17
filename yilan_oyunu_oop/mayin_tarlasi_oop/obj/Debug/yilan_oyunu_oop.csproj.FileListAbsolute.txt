@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\yilan_oyunu_oop\mayin_tarlasi_oop\bin\Debug\mayin_tarlasi_oop.exe.config
+C:\Users\Dell\Desktop\yilan_oyunu_oop\mayin_tarlasi_oop\bin\Debug\mayin_tarlasi_oop.exe
+C:\Users\Dell\Desktop\yilan_oyunu_oop\mayin_tarlasi_oop\bin\Debug\mayin_tarlasi_oop.pdb
+C:\Users\Dell\Desktop\yilan_oyunu_oop\mayin_tarlasi_oop\obj\Debug\yilan_oyunu_oop.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\yilan_oyunu_oop\mayin_tarlasi_oop\obj\Debug\yilan_oyunu_oop.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\yilan_oyunu_oop\mayin_tarlasi_oop\obj\Debug\mayin_tarlasi_oop.exe
+C:\Users\Dell\Desktop\yilan_oyunu_oop\mayin_tarlasi_oop\obj\Debug\mayin_tarlasi_oop.pdb
